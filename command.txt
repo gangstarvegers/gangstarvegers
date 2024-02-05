@@ -1,0 +1,12 @@
+CLS(clear)
+SYSTEMINFO
+VOL(volme)
+VER(version)
+date
+timE
+E: basako xa 
+DIR all progrogram
+COPYCON(NEW FOLDER
+ren( RENAME)
+EDIT
+DEL
